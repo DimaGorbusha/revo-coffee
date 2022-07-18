@@ -7,7 +7,10 @@ module.exports = {
     extend: {
       colors: {
         main: "#415167",
-        menu: "#EDF0F5"
+        menu: "#EDF0F5",
+        accent_dark: "#C7A17A",
+        accent_light: "#F9F5E8",
+        dark_gray: "#151D28",
       },
       fontFamily: {
         'nunito-bold': ['Nunito-Bold'],

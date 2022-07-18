@@ -6,7 +6,7 @@ import four from './4.png'
 
 export default function Description() {
   return (
-    <div>
+    <div className="mb-[128px]">
         <div className='flex flex-col align-middle items-center mt-[87px]'>
             <p className="font-nunito-semibold text-main text-[20px] p-0">Your Personalized Coffee</p>
             <h1 className="font-mon-black text-main text-[30px] p-0">COFFEE BUILD YOUR BASE</h1>
