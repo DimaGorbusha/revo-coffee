@@ -1,5 +1,5 @@
 import React from 'react'
-import ad from './img/sad.png'
+import ad from './img/ad.png'
 
 export default function Advertisment() {
   return (
