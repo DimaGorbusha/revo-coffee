@@ -11,6 +11,7 @@ module.exports = {
         accent_dark: "#C7A17A",
         accent_light: "#F9F5E8",
         dark_gray: "#151D28",
+        light_gray: "#EDF0F5"
       },
       fontFamily: {
         'nunito-bold': ['Nunito-Bold'],
