@@ -4,9 +4,9 @@ import coffee_origin from './img/coffee_origin.png'
 import coffee_everyday from './img/coffee_everyday.png'
 import coffee_dam_da from './img/coffee_dam_da.png'
 
-export default function Carousel() {
+export default function CoffeeSets() {
   return (
-      <div>
+      <div className="" id="coffee_sets">
         <div className="text-center">
             <h2 className="text-[20px] font-nunito-semibold text-main items-right">Choose Your Favorite</h2>
             <h1 className="text-[30px] font-mon-black text-main items-center">CHUẨN GU ĐÚNG VỊ</h1>

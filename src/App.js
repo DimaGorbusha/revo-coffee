@@ -1,7 +1,7 @@
 import Advertisment from "./components/Advertisment";
 import Description from "./components/Description";
 import Menu from "./components/Menu";
-import Carousel from "./components/Carousel";
+import CoffeeSets from "./components/CoffeeSets";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
         <Description/>
       </div>
       <div>
-        <Carousel/>
+        <CoffeeSets/>
       </div>
     </div>
   );
