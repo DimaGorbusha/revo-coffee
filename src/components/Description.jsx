@@ -1,8 +1,8 @@
 import React from 'react'
-import one from './1.png'
-import two from './2.png'
-import three from './3.png'
-import four from './4.png'
+import one from './img/1.png'
+import two from './img/2.png'
+import three from './img/3.png'
+import four from './img/4.png'
 
 export default function Description() {
   return (

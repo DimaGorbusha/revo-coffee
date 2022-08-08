@@ -1,5 +1,5 @@
 import React from 'react'
-import coffe1 from './coffe1.png'
+import coffe1 from './img/coffe1.png'
 
 export default function Carousel() {
   return (
@@ -9,9 +9,9 @@ export default function Carousel() {
             <h1 className="text-[30px] font-mon-black text-main items-center">CHUẨN GU ĐÚNG VỊ</h1>
         </div>
         <div className='w-auto m-auto mb-[100px]'>
-          <div className='flex overflow-x-auto mt-[72px]'>
+          <div className='flex overflow-x-auto mt-[72px] snap-x snap-mandatory'>
 
-            <div className='flex rounded-[10px] mr-[29px] min-h-full min-w-[50%]'>
+            <div className='flex rounded-[10px] mr-[29px] min-h-full min-w-[50%] ml-[149px]'>
               <img src={coffe1} alt="" className='w-[235px] h-[256px] rounded-[10px]'/>
               <div className='ml-[44px] mt-[42px]'>
                 <h2 className='font-nunito-semibold text-accent_dark text-[20px]'>99.000</h2>
