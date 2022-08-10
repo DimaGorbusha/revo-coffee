@@ -17,6 +17,7 @@ module.exports = {
         'nunito-bold': ['Nunito-Bold'],
         'nunito-light': ['Nunito-Light'],
         'nunito-semibold': ['Nunito-Semibold'],
+        'nunito-lihtitalic': ['Nunito-LightItalic'],
         'mon-black': ['Montserrat-Black'],
       }
     },
