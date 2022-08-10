@@ -23,7 +23,7 @@ export default function CoffeeSets() {
                 <p className='font-nunito-light text-dark_gray text-[16px] mb-[22px]'>đắng, hậu ngọt, hương hoa</p>
                 <div className='flex text-center align-middle'>
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
-                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] hover:text-accent_dark transition delay-75 ease-in-out'>CHI TIẾT</p>
+                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] hover:text-accent_dark transition delay-75 ease-in-out cursor-pointer'>CHI TIẾT</p>
                 </div>
               </div>
             </div>
@@ -36,7 +36,7 @@ export default function CoffeeSets() {
                 <p className='font-nunito-light text-dark_gray text-[16px] mb-[22px]'>hậu ngọt, ít đắng, vị chua dâu</p>
                 <div className='flex text-center align-middle'>
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
-                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark'>CHI TIẾT </p>
+                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark cursor-pointer'>CHI TIẾT </p>
                 </div>
               </div>
             </div>
@@ -51,7 +51,7 @@ export default function CoffeeSets() {
                 <p className='font-nunito-light text-dark_gray text-[16px] mb-[22px]'>cân bằng, hậu đắng, vị chocolate</p>
                 <div className='flex text-center align-middle'>
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
-                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark'>CHI TIẾT</p>
+                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark cursor-pointer'>CHI TIẾT</p>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ export default function CoffeeSets() {
                 <p className='font-nunito-light text-dark_gray text-[16px] mb-[22px]'>đậm đà, đắng, truyền thống</p>
                 <div className='flex text-center align-middle'>
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
-                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark'>CHI TIẾT</p>
+                  <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark cursor-pointer'>CHI TIẾT</p>
                 </div>
               </div>
             </div>

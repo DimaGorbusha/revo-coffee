@@ -11,7 +11,7 @@ export default function GiftSet() {
             <h1 className="text-[30px] font-mon-black text-main items-center">GIFTSET</h1>
         </div>
 
-        <div className="flex mt-[68px] align-top">
+        <div className="flex mt-[68px] align-top pb-[126px]">
             <div className="bg-white inline-block ml-[230px]">
                 <div className="flex pr-[64px]">
                     <img src={giftset} alt="" />
@@ -39,7 +39,7 @@ export default function GiftSet() {
                                         <h1 className='font-nunito-semibold text-[#232C38] text-[16px]'>700 - 800m</h1>
                                     </div>
                                 </div>
-                                <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] hover:text-accent_dark transition delay-75 ease-in-out'>CHI TIẾT</p>
+                                <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] hover:text-accent_dark transition delay-75 ease-in-out cursor-pointer'>CHI TIẾT</p>
                             </div>
                         </div>
                     </div>
