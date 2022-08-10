@@ -12,7 +12,7 @@ export default function GiftSet() {
         </div>
 
         <div className="flex mt-[68px] align-top">
-            <div className="bg-white inline-block ml-[190px]">
+            <div className="bg-white inline-block ml-[230px]">
                 <div className="flex pr-[64px]">
                     <img src={giftset} alt="" />
                     <div className='mt-[64px]'>
@@ -45,7 +45,7 @@ export default function GiftSet() {
                     </div>
                 </div>
             </div>
-            <div>
+            {/* <div>
                 <div className='flex-col'>
                     <div className=''>
                         <h1 className='font-mon-black text-main text-[30px] pt-[65px] pr-[37px] pl-[37px] pb-[65px] bg-white cursor-pointer'>1</h1>
@@ -63,8 +63,7 @@ export default function GiftSet() {
                         <h1 className='font-mon-black text-main text-[30px] pt-[65px] pr-[37px] pl-[37px] pb-[65px] bg-white cursor-pointer'>3</h1>
                     </div>
                 </div>
-                    {/* менюшка с помощью :checked */}
-            </div>
+            </div> */}
         </div>
     </div>
   )
