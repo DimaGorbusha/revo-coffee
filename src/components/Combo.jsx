@@ -15,6 +15,7 @@ export default function Combo() {
 
             <div className='bg-white'>
                 <img src={ combo1 } alt="" />
+                <div className='ml-[42px]'>
                     <div className='flex align-middle mt-[42px]'>
                         <h2 className='font-nunito-semibold text-accent_dark text-[20px]'>147.000</h2>
                         <h2 className='font-nunito-semibold text-main text-[14px] line-through ml-[19px] mt-[5px]'>155.000</h2>
@@ -25,10 +26,12 @@ export default function Combo() {
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
                   <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark cursor-pointer'>CHI TIẾT</p>
                 </div>
+                </div>
             </div>
 
             <div className='bg-white'>
                 <img src={ combo2 } alt="" />
+                <div className='ml-[42px]'>
                     <div className='flex align-middle mt-[42px]'>
                         <h2 className='font-nunito-semibold text-accent_dark text-[20px]'>155.000</h2>
                         <h2 className='font-nunito-semibold text-main text-[14px] line-through ml-[19px] mt-[5px]'>165.000</h2>
@@ -39,10 +42,12 @@ export default function Combo() {
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
                   <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark cursor-pointer'>CHI TIẾT</p>
                 </div>
+                </div>
             </div>
 
             <div className='bg-white'>
                 <img src={ combo3 } alt="" />
+                <div className='ml-[42px]'>
                     <div className='flex align-middle mt-[42px]'>
                         <h2 className='font-nunito-semibold text-accent_dark text-[20px]'>275.000</h2>
                         <h2 className='font-nunito-semibold text-main text-[14px] line-through ml-[19px] mt-[5px]'>299.000</h2>
@@ -52,6 +57,7 @@ export default function Combo() {
                 <div className='flex text-center align-middle'>
                   <a href="#" className=' font-nunito-bold text-[#F9FBFF] text-[16px] pr-[25px] pl-[25px] pt-[6px] pb-[6px] bg-accent_dark rounded-[19px] transition delay-75 ease-in-out hover:text-accent_dark hover:bg-[#ECEFF4] '>MUA NGAY</a>
                   <p className='font-nunito-bold text-[16px] text-main mt-[6px] ml-[29px] transition delay-75 ease-in-out hover:text-accent_dark cursor-pointer'>CHI TIẾT</p>
+                </div>
                 </div>
             </div>
 
