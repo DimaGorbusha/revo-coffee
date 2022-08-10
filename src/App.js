@@ -3,10 +3,11 @@ import Description from "./components/Description";
 import Menu from "./components/Menu";
 import CoffeeSets from "./components/CoffeeSets";
 import GiftSet from "./components/GiftSet";
+import Combo from "./components/Combo";
 
 function App() {
   return (
-    <div>
+    <div className="bg-[#F9FBFF]">
       <div className="flex">
         <Advertisment/>
         <Menu/>
@@ -19,6 +20,9 @@ function App() {
       </div>
       <div>
         <GiftSet/>
+      </div>
+      <div>
+        <Combo/>
       </div>
     </div>
   );
