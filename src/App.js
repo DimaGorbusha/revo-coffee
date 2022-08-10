@@ -8,20 +8,20 @@ import Combo from "./components/Combo";
 function App() {
   return (
     <div className="bg-[#F9FBFF]">
-      <div className="flex">
+      <div className="flex" id="coffee">
         <Advertisment/>
         <Menu/>
       </div>
-      <div>
+      <div id="descr">
         <Description/>
       </div>
-      <div>
+      <div id='coffeesets'>
         <CoffeeSets/>
       </div>
-      <div>
+      <div id='giftsets'>
         <GiftSet/>
       </div>
-      <div>
+      <div id='combo'>
         <Combo/>
       </div>
     </div>
